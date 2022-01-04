@@ -1,7 +1,7 @@
 # My Personal Website
 
 My Personal Website Template is out 🎉</br>
-Just download .zip file and enjoy it 🤩</br>
+Clone it or just download .zip file and enjoy it 🤩</br>
 ##
 ## Some image of this template📸:</br>
 ![Personal Website Image](https://cdn.discordapp.com/attachments/913486658555482112/927831644356898836/unknown.png)</br>
